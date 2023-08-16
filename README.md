@@ -14,15 +14,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" title="FreeRTOS" alt="FreeRTOS" width="80" height="40"/>&nbsp;
- 
+  <img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" title="FreeRTOS" alt="FreeRTOS" width="80" height="40"/>&nbsp; 
 </div>
 
 
-<div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tr202&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tr202&theme=solarized)
-</div>
+
+📫 How to reach me: ...
+- mail:      tr2022ya.ru
+- Telegram: @tkvolkov
+- Linkedin: 
 <!--
 **tr202/tr202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
