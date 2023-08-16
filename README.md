@@ -19,10 +19,10 @@
 </div>
 
 
-
+<div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tr202&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tr202&theme=solarized)
-
+</div>
 <!--
 **tr202/tr202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
