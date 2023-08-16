@@ -24,7 +24,7 @@
 📫 How to reach me: ...
 - mail:      tr2022ya.ru
 - Telegram: @tkvolkov
-- Linkedin: <a url="https://www.linkedin.com/in/konstantin-volkov-a95b98130/">Konstantin</a>
+- Linkedin: [Konstantin](https://www.linkedin.com/in/konstantin-volkov-a95b98130/)
 <!--
 **tr202/tr202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
