@@ -22,7 +22,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tr202&theme=solarized)
 
 📫 How to reach me: ...
-- mail:      tr2022ya.ru
+- mail:      tr202ya.ru
 - Telegram: @tkvolkov
 - Linkedin: [Konstantin](https://www.linkedin.com/in/konstantin-volkov-a95b98130/)
 <!--
